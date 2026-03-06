@@ -18,6 +18,7 @@ Si quieres probar la aplicación en tu dispositivo Android sin necesidad de comp
 1.  **Descarga el archivo:** Haz clic en el siguiente enlace: **[Descargar APK v1.0](./TurisMonforte.apk)**.
 2.  **Permisos:** Al abrir el archivo en tu móvil, Android te pedirá permiso para "Instalar aplicaciones de fuentes desconocidas". Actívalo para completar la instalación.
 3.  **¡Explora!:** Abre la app y empieza tu viaje por Monforte.
+4.  **IMPORTANTE:** EL APK ESTÁ EN RELEASES, JUNTO A LOS VÍDEOS QUE SE USAN EN EL PROYECTO
 
 ---
 
